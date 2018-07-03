@@ -1,0 +1,7 @@
+import numpy
+
+class Layer:
+      #初始化　dim_out个神经元构成的单层神经网络，输出为dim_in 维
+　　　　　　def _init_(self,dim_in,dim_out):
+	#随机初始化权值矩阵　weight
+	self.weight =numpy.matrix
